@@ -1,9 +1,9 @@
 body {
-    background-color: ff0000;
+    background-color: #ff4d4d
 }
 
 #header-nav{
-    background-color: rgb(72, 197, 72);
+    background-color: rgb(0, 0, 0,)
     border-radius: 0;
     border: 0;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 #main-title h2 {
-    color: rgb(179, 32, 32);
+    color: #e600e6;
     font-family: "helvetica";
     text-shadow: 1px 1px 2px whitesmoke;
     font-weight: bold;
