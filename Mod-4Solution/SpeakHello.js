@@ -2,7 +2,7 @@
 // See Lecture 52, part 2
 
 (function (window) {
-  var helloSpeaker  = {};
+  var helloSpeaker  = new Object();
   helloSpeaker.name = "";
   var speakWord = "Hello";
   helloSpeaker.speak = function (name) {		
